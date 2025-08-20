@@ -1,6 +1,0 @@
-name,id,smiles,active
-4289057,MUV_600_A_28,CCOC(=O)C(C)Oc1cccc2c1ccn(CC(=O)NCc1ccc3c(c1)OCO3)c2=O,1
-2537908,MUV_600_A_16,Clc1ccc(OCCN2CCN(c3ncnc4sccc43)CC2)cc1,1
-3241587,MUV_600_A_24,CCc1ccc(-c2nc(CSCC(=O)NCCCN3CCCC3=O)c(C)o2)cc1,1
-2952899,MUV_600_A_18,COc1ccc(C(=O)Nn2c(=O)c3ccccc3nc2SCC(=O)NCC2CCCO2)cc1,1
-2056784,MUV_600_A_9,Cc1ccc(-c2nc(-c3ccccc3)no2)c(Cl)c1,1

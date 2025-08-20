@@ -1,6 +1,0 @@
-name,id,smiles,active
-ZINC03832385,DUD_vegfr2_A_28,Nc1ccc2c(Cc3ccncc3)nnc(Nc3ccc(Cl)cc3)c2c1,1
-ZINC03834202,DUD_vegfr2_A_41,C[NH+]1CC[NH+](CCCn2ccc(-c3cnc4c(-c5ccsc5)cnn4c3)cc2=O)CC1,1
-ZINC00007460,DUD_vegfr2_A_27,Clc1ccc(Nc2nnc(Cc3ccncc3)c3ccccc23)cc1,1
-ZINC01494651,DUD_vegfr2_A_44,CCn1c(=O)c(-c2cc(OC)cc(OC)c2)cc2cnc(Nc3ccncc3)nc21,1
-ZINC01493965,DUD_vegfr2_A_25,Clc1ccc(Nc2nnc(OCc3ccncc3)c3sccc23)cc1,1

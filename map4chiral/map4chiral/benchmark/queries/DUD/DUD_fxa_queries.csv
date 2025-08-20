@@ -1,6 +1,0 @@
-name,id,smiles,active
-ZINC03815604,DUD_fxa_A_53,N=C(N)c1cccc(OCCNC(=O)c2ccc(-c3ccccc3S(N)(=O)=O)cc2)c1,1
-ZINC03815612,DUD_fxa_A_59,Cn1c2ccc(C3(C(=O)N4CCCC4)CC3)cc2nc(Cc2ccc([CH+](=N)N)cc2)c1=O,1
-ZINC04631167,DUD_fxa_A_1,N=[CH+](N)c1cccc(Cn2c(C(N)=O)cc3ccccc32)c1,1
-ZINC04631119,DUD_fxa_A_45,N=[CH+](N)c1ccc(CNC(=O)c2cc3c(cccc3O)n2Cc2cccc([CH+](=N)N)c2)cc1,1
-ZINC04631063,DUD_fxa_A_6,COC(=O)c1c(C)c2ccccc2n1Cc1cccc([CH+](=N)N)c1,1

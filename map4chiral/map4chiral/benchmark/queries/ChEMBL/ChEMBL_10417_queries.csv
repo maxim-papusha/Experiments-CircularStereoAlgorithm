@@ -1,6 +1,0 @@
-name,id,smiles,active
-CHEMBL1098099,ChEMBL_10417_A_84,O=C(NCC1(O)CCCC1)c1cc(-c2ncc(F)cn2)ccc1Cl,1
-CHEMBL252899,ChEMBL_10417_A_54,Cc1ccc(S(=O)(=O)Oc2ccc(C[C@H](NC(=O)OCc3ccccc3)C(=O)N3CCN(C(=O)c4ccc(N(C)C)cc4)CC3)cc2)cc1,1
-CHEMBL1923323,ChEMBL_10417_A_71,CCN1C(=O)c2nc(-c3ccc(-c4ccc(OC)cc4)nc3)n(Cc3ccc(F)c(F)c3)c2N2CC(C)(C)N=C12,1
-CHEMBL1777928,ChEMBL_10417_A_46,CCN1C(=O)c2nc(-c3ccc(F)cc3)n(Cc3ccc(F)c(F)c3)c2N2CC(C)(C)N=C12,1
-CHEMBL1777940,ChEMBL_10417_A_45,CCN1C(=O)c2nc(-c3ccc(F)cc3)n(Cc3ccc(F)c(F)c3)c2N2CC(c3ccc(F)cc3)N=C12,1

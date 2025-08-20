@@ -1,6 +1,0 @@
-name,id,smiles,active
-ZINC03832216,DUD_parp_A_28,CC(=NO)c1c2cccc3c2n(c1-c1ccc(F)cc1)CCNC3=O,1
-ZINC03832199,DUD_parp_A_16,O=C1NCCn2c(-c3ccccc3)cc3cccc1c32,1
-ZINC03832215,DUD_parp_A_24,N#Cc1c(-c2ccc(F)cc2)n2c3c(cccc13)C(=O)NCC2,1
-ZINC03832203,DUD_parp_A_18,O=C1NCCn2c(-c3ccc(F)cc3)cc3cccc1c32,1
-ZINC03832188,DUD_parp_A_9,C[C@@H](O)c1cn2c3c(cccc13)C(=O)NCC2,1

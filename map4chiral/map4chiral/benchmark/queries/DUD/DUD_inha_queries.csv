@@ -1,6 +1,0 @@
-name,id,smiles,active
-ZINC03833905,DUD_inha_A_1,O=C(Cc1ccccc1F)NCCO,1
-ZINC03833907,DUD_inha_A_6,O=C(Cc1ccccc1F)NCCc1ccccc1,1
-ZINC03832028,DUD_inha_A_31,COc1ccccc1N1CCN(C(=O)c2ccc3[nH]ccc3c2)CC1,1
-ZINC03833937,DUD_inha_A_14,O=[N+]([O-])c1ccc(C2=C[N+](c3cccc(O)c3)=NC2)c(Cl)c1,1
-ZINC03833914,DUD_inha_A_35,CN(Cc1ccccc1)C(=O)c1ccc(-c2ccccc2)cc1,1

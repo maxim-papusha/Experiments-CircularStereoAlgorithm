@@ -1,6 +1,0 @@
-name,id,smiles,active
-9550557,MUV_713_A_28,O=C(NNC(=O)c1ccc(SCC2CCCO2)c([N+](=O)[O-])c1)c1ccc(Cl)c([N+](=O)[O-])c1,1
-2585702,MUV_713_A_16,Cc1ccccc1Nc1nnc(SCC(=O)NC(=O)NCc2ccco2)s1,1
-5694035,MUV_713_A_24,Cc1cc(C)n2nc(SCc3cc(=O)oc4cc(O)ccc34)nc2n1,1
-2646358,MUV_713_A_18,Cc1ccc(Nc2nnc(SCC(=O)NCc3ccco3)s2)cc1,1
-1356336,MUV_713_A_9,O=Cc1cn(-c2ccccc2)nc1-c1cc2c(ccc3ccccc32)oc1=O,1

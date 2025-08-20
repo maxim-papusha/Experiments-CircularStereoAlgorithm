@@ -1,6 +1,0 @@
-name,id,smiles,active
-RNWKLRPNYH,PNWKLRPNYH_mut.smi_A_362,CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](N)CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O,1
-RNWKLRPNYH,PNWKLRPNYH_mut.smi_A_74,CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](N)CCCNC(=N)N)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O,1
-PNWKLRPNGH,PNWKLRPNYH_mut.smi_A_375,CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H]1CCCN1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)NCC(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O,1
-PNWRLRPNSH,PNWKLRPNYH_mut.smi_A_156,CC(C)C[C@H](NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H]1CCCN1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O,1
-PNWAIRPNYH,PNWKLRPNYH_mut.smi_A_105,CC[C@H](C)[C@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H]1CCCN1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)O,1
