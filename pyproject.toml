@@ -1,0 +1,22 @@
+[project]
+name = "fingerprints"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faerun>=0.4.7",
+    "map4",
+    "mapchiral",
+    "matplotlib>=3.10.5",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "rdkit>=2025.3.5",
+    "scipy>=1.16.1",
+    "stereomolgraph",
+]
+
+[tool.uv.sources]
+stereomolgraph = { git = "https://github.com/maxim-papusha/StereoMolGraph", branch = "fingerprint" }
+mapchiral = { git = "https://github.com/markusorsi/mapchiral", branch = "main" }
+map4 = { git = "https://github.com/reymond-group/map4" }
