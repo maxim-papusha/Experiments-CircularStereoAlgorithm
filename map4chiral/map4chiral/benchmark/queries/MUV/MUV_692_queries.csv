@@ -1,0 +1,6 @@
+name,id,smiles,active
+5389302,MUV_692_A_28,Cc1ccc(C2C(=C(O)c3cnn(-c4ccccc4)c3C)C(=O)C(=O)N2CCN(C)C)o1,1
+2572574,MUV_692_A_16,c1nc(CSc2nnc3ccccn32)oc1-c1ccccc1,1
+3241407,MUV_692_A_24,COc1ccc2nc(Nc3nc(C)c(C(C)=O)s3)sc2c1,1
+2997640,MUV_692_A_18,CS(=O)(=O)c1ccc2nc(NC(=O)C3COc4ccccc4O3)sc2c1,1
+661110,MUV_692_A_9,OCCOCCNc1ncnc2c1cnn2-c1ccc(Cl)cc1,1

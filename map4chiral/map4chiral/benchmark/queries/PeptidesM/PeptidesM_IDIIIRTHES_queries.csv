@@ -1,0 +1,6 @@
+name,id,smiles,active
+TDTIIRTHES,IDIIIRTHES_mut.smi_A_362,CC[C@H](C)[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](CC(=O)O)NC(=O)[C@@H](N)[C@@H](C)O)[C@@H](C)O)[C@@H](C)CC)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@H](C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)O)[C@@H](C)O,1
+IDIPIRTHES,IDIIIRTHES_mut.smi_A_74,CC[C@H](C)[C@H](N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@H](C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)O)[C@@H](C)O)[C@@H](C)CC)[C@@H](C)CC,1
+EDIFIRTHES,IDIIIRTHES_mut.smi_A_375,CC[C@H](C)[C@H](NC(=O)[C@H](CC(=O)O)NC(=O)[C@@H](N)CCC(=O)O)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@H](C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)O)[C@@H](C)O)[C@@H](C)CC,1
+IDIIIRTHPS,IDIIIRTHES_mut.smi_A_156,CC[C@H](C)[C@H](N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@H](C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CO)C(=O)O)[C@@H](C)O)[C@@H](C)CC)[C@@H](C)CC)[C@@H](C)CC,1
+CDIIIRTHES,IDIIIRTHES_mut.smi_A_105,CC[C@H](C)[C@H](NC(=O)[C@H](CC(=O)O)NC(=O)[C@@H](N)CS)C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@H](C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)O)[C@@H](C)O)[C@@H](C)CC)[C@@H](C)CC,1

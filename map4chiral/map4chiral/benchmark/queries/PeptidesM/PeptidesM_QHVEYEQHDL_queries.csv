@@ -1,0 +1,6 @@
+name,id,smiles,active
+QHVEYEQHSL,QHVEYEQHDL_mut.smi_A_362,CC(C)C[C@H](NC(=O)[C@H](CO)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H](NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H](N)CCC(N)=O)C(C)C)C(=O)O,1
+QHVEYSQHDR,QHVEYEQHDL_mut.smi_A_74,CC(C)[C@H](NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H](N)CCC(N)=O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)O,1
+QHVEYEQRDI,QHVEYEQHDL_mut.smi_A_375,CC[C@H](C)[C@H](NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H](NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H](N)CCC(N)=O)C(C)C)C(=O)O,1
+QHVEYEQPDL,QHVEYEQHDL_mut.smi_A_156,CC(C)C[C@H](NC(=O)[C@H](CC(=O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H](NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H](N)CCC(N)=O)C(C)C)C(=O)O,1
+QHVEYEQHKL,QHVEYEQHDL_mut.smi_A_105,CC(C)C[C@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H](NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H](N)CCC(N)=O)C(C)C)C(=O)O,1

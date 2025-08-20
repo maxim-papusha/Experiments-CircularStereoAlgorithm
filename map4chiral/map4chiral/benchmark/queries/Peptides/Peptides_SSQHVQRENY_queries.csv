@@ -1,0 +1,6 @@
+name,id,smiles,active
+YESSQHVNRQ,SSQHVQRENY_A_28,CC(C)[C@H](NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H](N)Cc1ccc(O)cc1)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCC(N)=O)C(=O)O,1
+EYSQHVQRSN,SSQHVQRENY_A_17,CC(C)[C@H](NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@@H](N)CCC(=O)O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(N)=O)C(=O)O,1
+QESQHVYRSN,SSQHVQRENY_A_13,CC(C)[C@H](NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H](N)CCC(N)=O)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(N)=O)C(=O)O,1
+YESNQHVQRS,SSQHVQRENY_A_23,CC(C)[C@H](NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CO)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H](N)Cc1ccc(O)cc1)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CO)C(=O)O,1
+SEQHVSRQNY,SSQHVQRENY_A_9,CC(C)[C@H](NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H](N)CO)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O,1

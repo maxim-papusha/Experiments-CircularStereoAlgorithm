@@ -1,0 +1,6 @@
+name,id,smiles,active
+KAQIDGSPNP,KAQIDLSPNP_mut.smi_A_362,CC[C@H](C)[C@H](NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(=O)O)C(=O)NCC(=O)N[C@@H](CO)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N1CCC[C@H]1C(=O)O,1
+KAMIDLTPNP,KAQIDLSPNP_mut.smi_A_74,CC[C@H](C)[C@H](NC(=O)[C@H](CCSC)NC(=O)[C@H](C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N1CCC[C@H]1C(=O)O)[C@@H](C)O,1
+KAQIDLSPQP,KAQIDLSPNP_mut.smi_A_375,CC[C@H](C)[C@H](NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CO)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCC(N)=O)C(=O)N1CCC[C@H]1C(=O)O,1
+KAQIDLDPNP,KAQIDLSPNP_mut.smi_A_156,CC[C@H](C)[C@H](NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](C)NC(=O)[C@@H](N)CCCCN)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N1CCC[C@H]1C(=O)O,1
+AARIDLSPNP,KAQIDLSPNP_mut.smi_A_105,CC[C@H](C)[C@H](NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](C)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CO)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N1CCC[C@H]1C(=O)O,1

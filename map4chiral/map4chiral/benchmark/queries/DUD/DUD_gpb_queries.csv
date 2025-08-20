@@ -1,0 +1,6 @@
+name,id,smiles,active
+ZINC03833811,DUD_gpb_A_14,NC(=O)N[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,1
+ZINC04134455,DUD_gpb_A_46,O=C(CS[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)Nc1ccccc1,1
+ZINC03993547,DUD_gpb_A_48,CCN1C(C)=C(C(=O)OC(C)C)[C@@H](c2ccccc2Cl)C(C(=O)O)=C1C(=O)O,1
+ZINC03833810,DUD_gpb_A_45,O=C(N[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)OCc1ccccc1,1
+ZINC04134460,DUD_gpb_A_18,CNNC(=O)[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,1

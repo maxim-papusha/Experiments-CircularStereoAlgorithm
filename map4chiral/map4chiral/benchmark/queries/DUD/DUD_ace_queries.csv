@@ -1,0 +1,6 @@
+name,id,smiles,active
+ZINC03814184,DUD_ace_A_40,O=C(O)CN1C(=O)[C@@H](N[C@@H](CCc2ccccc2)C(=O)O)CCc2ccccc21,1
+ZINC03814176,DUD_ace_A_26,CC(NP(=O)(O)CCc1ccccc1)C(=O)N1CCCC1C(=O)[O-],1
+ZINC03775164,DUD_ace_A_27,C[C@H](NC(=O)[C@@H](S)Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)O,1
+ZINC03814181,DUD_ace_A_45,C[C@H](CC(=O)[C@H](Cc1ccccc1)NC(=O)c1ccccc1)C(=O)N1CCC[C@H]1C(=O)O,1
+ZINC03809801,DUD_ace_A_36,O=C(N[C@H]1CCS[C@H]2CCC[C@@H](C(=O)O)N2C1=O)[C@@H](S)Cc1ccccc1,1

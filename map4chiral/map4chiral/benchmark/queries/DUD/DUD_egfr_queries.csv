@@ -1,0 +1,6 @@
+name,id,smiles,active
+ZINC00109589,DUD_egfr_A_194,c1ccc(CNc2ncnc3ccccc23)cc1,1
+ZINC03815251,DUD_egfr_A_34,COc1ccc2ncnc(Nc3ccccc3)c2c1,1
+ZINC03815229,DUD_egfr_A_16,Brc1cccc(Nc2ncnc3ccncc23)c1,1
+ZINC04617814,DUD_egfr_A_310,COc1cc2ncnc(N[C@@H]3CCc4ccccc43)c2cc1OC,1
+ZINC03815111,DUD_egfr_A_58,Nc1ccc2c(Nc3cccc(F)c3)ncnc2c1,1
