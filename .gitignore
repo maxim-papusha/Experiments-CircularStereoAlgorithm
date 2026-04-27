@@ -1,6 +1,11 @@
 # Large database files
 data/*.db
 
+# Generated data files
+data/chembl_smg_hash_collision_groups.csv
+data/chembl_small.csv
+!data/chembl_small.7z.*
+
 # Python
 __pycache__/
 *.py[cod]

@@ -22,7 +22,9 @@ ROOT = Path(__file__).resolve().parents[1]
 DB_PATH = ROOT / "data" / "subgraph_smg.db"
 
 RADII = (2, 3, 4)
-SAMPLE_SIZE: int | None = None  # None = use all entries (no false-negative risk)
+SAMPLE_SIZE: int | None = (
+    None  # None = use all entries (no false-negative risk)
+)
 WORKERS = max(1, (mp.cpu_count() or 1) - 1)
 INSERT_BATCH = 500
 
