@@ -1,1 +1,22 @@
-map4chiral*
+# Large database files
+data/*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Environments
+.venv/
+.pixi/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/

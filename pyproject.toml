@@ -1,22 +1,15 @@
 [project]
-name = "fingerprints"
-version = "0.1.0"
-description = "Add your description here"
+name = "CircularStereoAlgorithm_SI"
+version = "1.0.0"
+description = "Supporting Information"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = "==3.14"
 dependencies = [
-    "faerun>=0.4.7",
-    "map4",
-    "mapchiral",
     "matplotlib>=3.10.5",
     "numpy>=2.3.2",
     "pandas>=2.3.1",
-    "rdkit>=2025.3.5",
+    "rdkit==2024.09.6",
     "scipy>=1.16.1",
-    "stereomolgraph",
+    "stereomolgraph==0.0.21b0",
+    "tqdm>=4.50",
 ]
-
-[tool.uv.sources]
-stereomolgraph = { git = "https://github.com/maxim-papusha/StereoMolGraph", branch = "fingerprint" }
-mapchiral = { git = "https://github.com/markusorsi/mapchiral", branch = "main" }
-map4 = { git = "https://github.com/reymond-group/map4" }
