@@ -3,6 +3,7 @@
 Code for the experiments described in:
 
 > **Circular Stereo Algorithm and Fingerprint for Chiral Resonance Invariant Molecular Representation**
+https://doi.org/10.26434/chemrxiv.15002723/v1
 
 The algorithm is implemented in the [StereoMolGraph](https://github.com/maxim-papusha/StereoMolGraph) library:
 
