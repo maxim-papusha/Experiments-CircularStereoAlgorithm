@@ -11,8 +11,6 @@ authors:
 identifiers:
   - type: doi
     value: 10.5281/zenodo.20562788
-  - type: url
-    value: 'https://zenodo.org/record/20562788'
 repository-code: >-
   https://github.com/maxim-papusha/Experiments-CircularStereoAlgorithm
 license: MIT
