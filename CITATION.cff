@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: If you use this software or the associated experiments, please cite it using these metadata.
+type: software
+title: Examples-StereoFingerprint
+abstract: Experiments for the Circular Stereo Algorithm and Circular Stereo Fingerprint.
+keywords:
+  - stereochemistry
+  - molecular fingerprint
+  - chemoinformatics
+  - graph theory
+authors:
+  - given-names: Maxim
+    family-names: Papusha
+    orcid: https://orcid.org/0009-0000-8580-4777
+preferred-citation:
+  type: article
+  title: Circular Stereo Algorithm and Fingerprint for Chiral Resonance Invariant Molecular Representation
+  authors:
+    - given-names: Maxim
+      family-names: Papusha
+      orcid: https://orcid.org/0009-0000-8580-4777
+    - given-names: Kai
+      family-names: Leonhard
+      orcid: https://orcid.org/0000-0001-6231-6957
+  doi: 10.26434/chemrxiv.15002723/v1
+  url: https://doi.org/10.26434/chemrxiv.15002723/v1
+  date-released: 2026-05-05
