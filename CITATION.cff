@@ -1,13 +1,31 @@
 cff-version: 1.2.0
-message: "If you use this software or the associated experiments, please cite it using these metadata."
-title: Circular Stereo Algorithm and Fingerprint for Chiral Resonance Invariant Molecular Representation
+title: Experiments CircularStereoAlgorithm
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-- given-names: Maxim
-  family-names: Papusha
-  orcid: https://orcid.org/0009-0000-8580-4777
-- given-names: Kai
-  family-names: Leonhard
-  orcid: https://orcid.org/0000-0001-6231-6957
-doi: 10.26434/chemrxiv.15002723/v1
-url: https://doi.org/10.26434/chemrxiv.15002723/v1
-date-released: 2026-03-27
+  - given-names: Maxim
+    family-names: Papusha
+    orcid: 'https://orcid.org/0009-0000-8580-4777'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20562788
+  - type: url
+    value: 'https://zenodo.org/record/20562788'
+repository-code: >-
+  https://github.com/maxim-papusha/Experiments-CircularStereoAlgorithm
+license: MIT
+
+preferred-citation:
+  type: article
+  title: Circular Stereo Algorithm and Fingerprint for Chiral Resonance Invariant Molecular Representation
+  authors:
+    - given-names: Maxim
+      family-names: Papusha
+      orcid: 'https://orcid.org/0009-0000-8580-4777'
+    - given-names: Kai
+      family-names: Leonhard
+      orcid: 'https://orcid.org/0000-0001-6231-6957'
+  journal: ChemRxiv
+  doi: 10.26434/chemrxiv.15002723/v1
