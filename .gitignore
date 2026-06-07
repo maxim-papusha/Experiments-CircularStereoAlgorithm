@@ -1,5 +1,8 @@
 # Large database files
 data/*.db
+data/*.db-shm
+data/*.db-wal
+count_non_h.py
 
 # Generated data files
 data/chembl_smg_hash_collision_groups.csv
